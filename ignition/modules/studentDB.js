@@ -3,4 +3,4 @@ module.exports=buildModule("StudentRecord",(m)=>{
     const student=m.contract("StudentRecord");
 
     return{student};
-})
+});
